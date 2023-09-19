@@ -114,10 +114,10 @@
 
 .delete-button {
   border:rgb(0, 0, 0);
-  color: #ff0000; /* Choose a suitable color */
+  color: #ff0000; 
   font-size: 25px;
   cursor: pointer;
-  transition: color 0.2s; /* Smooth transition effect */
+  transition: color 0.2s; 
 
   /* Optional padding or margin */
   padding: 2px;
@@ -125,6 +125,6 @@
 }
 
 .delete-button:hover {
-  color: #ff5555; /* Choose a suitable hover color */
+  color: #ff5555; 
   background-color:#000000;
 }
